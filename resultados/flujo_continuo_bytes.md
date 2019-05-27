@@ -29,3 +29,9 @@
 ![Sin pérdida de paquetes](img/rtt_archivo_h1_h2_20480_0.svg)
 ![Con un 2% de pérdida de paquetes](img/rtt_archivo_h1_h2_20480_0.02.svg)
 ![Con un 10% de pérdida de paquetes](img/rtt_archivo_h1_h2_20480_0.1.svg)
+
+# Recomendaciones sobre la combinación con mejor rendimiento
+![Sin pérdida de paquetes](/img/arbol_archivo.png)
+
+## Utilizando solamente las implementaciones que vienen por defecto en Linux
+![Sin pérdida de paquetes](/img/arbol_archivo.png)
