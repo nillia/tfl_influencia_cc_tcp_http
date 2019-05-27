@@ -1,6 +1,7 @@
 # Recursos del TFL: "Influencia del Control de Congestión de TCP en el rendimiento de HTTP"
 
-El trabajo puede ser solicitado a la siguiente dirección de correo electrónico: nico @ illia.dev. En cuanto a la presentación del mismo, puede ser visto accediendo [aqui](https://docs.google.com/presentation/d/1-BBKYjdDrXlLI-9_DZkDQZlNQW2Q-AK7QgMZzVxVR44/edit?usp=sharing).
+El trabajo puede ser solicitado a la siguiente dirección de correo electrónico: nico @ illia.dev. 
+En cuanto a la presentación del mismo, puede ser visto accediendo [aqui](https://docs.google.com/presentation/d/1-BBKYjdDrXlLI-9_DZkDQZlNQW2Q-AK7QgMZzVxVR44/edit?usp=sharing).
 
 ## Resumen
 El incremento de la funcionalidad de los sitios Web, el cambio de comportamiento de los usuarios en la Web en general y el crecimiento del uso de múltiples dispositivos por persona hace que la cantidad de tráfico global se haya incrementado. El fenómeno de las redes sociales y servicios de _streamming_ abarca una gran proporción de este tráfico.
