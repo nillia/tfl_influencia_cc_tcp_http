@@ -31,7 +31,7 @@
 ![Con un 10% de pérdida de paquetes](img/rtt_twitter_h1s_h2_20480_0.1.svg)
 
 # Recomendaciones sobre la combinación con mejor rendimiento
-![Recomendaciones completas](/img/arbol_twitter.png)
+![Recomendaciones completas](img/arbol_twitter.png)
 
 ## Utilizando solamente las implementaciones que vienen por defecto en Linux
-![Recomendaciones stock](/img/arbol_twitter_stock.png)
+![Recomendaciones stock](img/arbol_twitter_stock.png)
